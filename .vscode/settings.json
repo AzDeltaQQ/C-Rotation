@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "functional": "cpp",
+        "*.h": "c",
+        "*.hpp": "cpp",
+        "*.inl": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "sstream": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp"
+    },
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

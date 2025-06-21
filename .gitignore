@@ -1,0 +1,73 @@
+# Build directories
+build/
+.specstory/
+
+# Dependencies (external libraries)
+dependencies/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Build outputs
+bin/
+lib/
+*.dll
+*.lib
+*.pdb
+*.exe
+*.obj
+*.o
+
+# Visual Studio files
+.vs/
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+*.idb
+*.pgc
+*.pgd
+*.rsp
+*.tmp
+*.temp
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+logs/
+*.log
+
+# Rotation files (user-generated)
+rotations/
+
+# Temporary files
+*~
+.DS_Store
+*.swp
+*.swo

@@ -1,0 +1,8 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+build/.cmake
+build/CMakeFiles
+build/Debug
+build/minhook.dir
+build/win32
+build/WOWDX9HOOK.dir
+dependencies/
