@@ -40,17 +40,19 @@ A comprehensive rotation and automation system for World of Warcraft 3.3.5 (Wrat
 │   ├── types/                # Game object definitions
 │   └── utils/                # Utility functions
 ├── RotationCreator/          # Standalone rotation editor
-└── dependencies/             # External libraries (not included)
+└── dependencies/             # External libraries (included)
 ```
 
 ## Dependencies
 
-This project requires the following external libraries (not included in repository):
+This project includes the following external libraries in the `dependencies/` folder:
 
 - **ImGui**: Immediate mode GUI library
-- **nlohmann/json**: JSON parsing and serialization
+- **nlohmann/json**: JSON parsing and serialization  
 - **MinHook**: Windows API hooking library
-- **DirectX 9 SDK**: DirectX development headers and libraries
+
+Additional requirement:
+- **DirectX 9 SDK**: Must be installed separately for DirectX development headers and libraries
 
 ## Building
 

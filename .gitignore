@@ -2,9 +2,6 @@
 build/
 .specstory/
 
-# Dependencies (external libraries)
-dependencies/
-
 # CMake generated files
 CMakeCache.txt
 CMakeFiles/
